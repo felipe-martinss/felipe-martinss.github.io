@@ -184,4 +184,6 @@ button:hover {
     display: flex;
     gap:30px;
     justify-content: center;
+    height: 120px;
+    width: auto;
 }
